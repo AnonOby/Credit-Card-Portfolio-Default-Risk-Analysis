@@ -16,7 +16,7 @@ This project aims to simulate a real-world credit risk monitoring workflow. Base
 
 **Source:** [UCI Machine Learning Repository - Default of Credit Card Clients](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
 
-**Description:**
+**Description:** 
 This project utilizes a real-world dataset containing credit card default data for clients in Taiwan from April 2005 to September 2005.
 
 - **Volume:** 30,000 records (rows).
@@ -41,7 +41,7 @@ This project utilizes a real-world dataset containing credit card default data f
 ### 2. Custom Risk Scoring System
 - Developed a rule-based scoring card from scratch (Base 100) with penalties for high utilization and historical delinquency.
 - Segmented customers into **Low / Medium / High** risk grades.
-- *Validation:* The "High" risk group showed a default rate of **~58.9%**, significantly outperforming the portfolio average of **22.1%**.
+- *Validation:* The "High" risk group showed a default rate of **~58.9%**, significantly exceeding the portfolio average.
 
 ### 3. Interactive Dashboard Design
 - **Overview Page:** High-level portfolio health metrics and trends.
@@ -63,13 +63,13 @@ Credit-Card-Portfolio-Default-Risk-Analysis/
 ├── powerbi/
 │   └── Dashboard of Credit Card Portfolio Default Risk Analysis.pbix
 ├── screenshots/
+│   └── Screenshots and brief notes.md
 │   └── pics/
 │       ├── Screenshot.Dashboard of Credit Card Portfolio Default Risk Analysis.pbix.01.png
 │       ├── Screenshot.Dashboard of Credit Card Portfolio Default Risk Analysis.pbix.02.png
 │       ├── Screenshot.Dashboard of Credit Card Portfolio Default Risk Analysis.pbix.03.png
 │       ├── Screenshot.credit_card_final_ready_for_PBI.xlsx.png
 │       └── Screenshot.credit_card_raw_original.xlsx.png
-├── Screenshots and brief notes.md
 ├── LICENSE
 ```
 
