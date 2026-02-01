@@ -51,17 +51,26 @@ This project utilizes a real-world dataset containing credit card default data f
 ## Project Structure
 
 ```text
-.
-├── data/                                    # Dataset Source
-│   └── credit_card_final_ready_for_PBI.xlsx
-├── powerbi/                                 # Interactive Reports
+Credit-Card-Portfolio-Default-Risk-Analysis/
+├── data/
+│   ├── credit_card_final_ready_for_PBI.xlsx
+│   ├── credit_card_raw_original.xlsx
+│   └── credit_card_working_v1.xlsx
+├── docs/
+│   └── References/
+│       └── Yeh and Lien - 2009 - The comparisons of data mining techniques for the predictive accuracy of probability of default of c.pdf
+├── README.md
+├── powerbi/
 │   └── Dashboard of Credit Card Portfolio Default Risk Analysis.pbix
-├── docs/                                    # Documentation
-│   └── Screenshots and brief notes.md        # Detailed technical breakdown
-└── screenshots/                              # Visual Gallery
-    ├── 01.Overview.png
-    ├── 02.Risk_Analysis.png
-    └── 03.Client_Detail.png
+├── screenshots/
+│   └── pics/
+│       ├── Screenshot.Dashboard of Credit Card Portfolio Default Risk Analysis.pbix.01.png
+│       ├── Screenshot.Dashboard of Credit Card Portfolio Default Risk Analysis.pbix.02.png
+│       ├── Screenshot.Dashboard of Credit Card Portfolio Default Risk Analysis.pbix.03.png
+│       ├── Screenshot.credit_card_final_ready_for_PBI.xlsx.png
+│       └── Screenshot.credit_card_raw_original.xlsx.png
+├── Screenshots and brief notes.md
+├── LICENSE
 ```
 
 ## Dashboard Preview
