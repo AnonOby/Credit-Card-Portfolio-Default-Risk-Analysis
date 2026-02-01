@@ -78,14 +78,13 @@ This project utilizes a real-world dataset containing credit card default data f
 ## Future Improvements
 
 - [ ] Integrate Machine Learning models (e.g., Logistic Regression) to refine Probability of Default (PD).
-- [ ] Add time-series analysis for vintage cohort tracking.
+- [ ] Apply more advanced data processing methods pertaining to Python and R, add real-time monitors.
 - [ ] Expand the dataset to include macroeconomic variables.
 
 ## References
 
 1.  **Dataset Source:** UCI Machine Learning Repository. (2005). *Default of Credit Card Clients Data Set*.
 2.  **Original Paper:** Yeh, I. C., & Lien, C. H. (2009). The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. *Expert Systems with Applications*, 36(2), 2473-2480.
-3.  **Power BI Documentation:** Microsoft Learn. *Create measures and calculated columns in Power BI Desktop*.
 
 ## Author
 
