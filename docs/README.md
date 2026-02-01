@@ -89,6 +89,6 @@ This project utilizes a real-world dataset containing credit card default data f
 ## Author
 
 **Anon Oby (HE ZHIXIONG)**
-- Aspiring Financial Risk Analyst
+- Aspiring Financial Risk Analyst (Work email: mahamahaanonoby@outlook.com)
 - [Medium Profile Link](https://medium.com/@anonoby63)
 - [Substack Profile Link](https://substack.com/@anonoby?)
