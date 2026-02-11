@@ -84,12 +84,6 @@ Credit-Card-Portfolio-Default-Risk-Analysis/
 3.  Open with **Power BI Desktop**.
 4.  Use the slicers and filters to interact with the data.
 
-## Future Improvements
-
-- [ ] Integrate Machine Learning models (e.g., Logistic Regression) to refine Probability of Default (PD).
-- [ ] Apply more advanced data processing methods pertaining to Python and R, add real-time monitors.
-- [ ] Expand the dataset to include macroeconomic variables.
-
 ## References
 
 1.  **Dataset Source:** UCI Machine Learning Repository. (2005). *Default of Credit Card Clients Data Set*.
